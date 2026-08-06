@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+
+# SQLite database (created fresh via EnsureCreated + DbSeeder on first run)
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.vs/
+.vscode/
+
+# OS
+.DS_Store
