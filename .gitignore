@@ -9,7 +9,8 @@ obj/
 
 # IDE
 .vs/
-.vscode/
 
 # OS
 .DS_Store
+config.bat
+node_modules
