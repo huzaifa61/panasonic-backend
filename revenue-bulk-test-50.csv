@@ -1,0 +1,51 @@
+Date,Store,Category,Description,Amount
+2026-04-02,Panasonic Dubai Mall,Television,Weekend TV sales,18500
+2026-04-03,Panasonic Abu Dhabi Corniche,Television,Television promo,13200
+2026-04-04,Panasonic Sharjah City Centre,Television,TV bundle sale,9800
+2026-04-05,Panasonic Dubai Mall,Air Conditioner,AC unit sales,21000
+2026-04-06,Panasonic Abu Dhabi Corniche,Air Conditioner,AC installation sale,15400
+2026-04-07,Panasonic Sharjah City Centre,Air Conditioner,AC clearance sale,11200
+2026-04-08,Panasonic Dubai Mall,Refrigerator,Refrigerator sales,16800
+2026-04-09,Panasonic Abu Dhabi Corniche,Refrigerator,Fridge bundle deal,12500
+2026-04-10,Panasonic Sharjah City Centre,Refrigerator,Refrigerator sales,9600
+2026-04-11,Panasonic Dubai Mall,Washing Machine,Washing machine sales,14200
+2026-04-12,Panasonic Abu Dhabi Corniche,Washing Machine,Washer promo,10800
+2026-04-13,Panasonic Sharjah City Centre,Washing Machine,Washer clearance,8300
+2026-04-14,Panasonic Dubai Mall,Microwave Oven,Microwave sales,7200
+2026-04-15,Panasonic Abu Dhabi Corniche,Microwave Oven,Microwave bundle,5600
+2026-04-16,Panasonic Sharjah City Centre,Microwave Oven,Microwave sales,4900
+2026-05-02,Panasonic Dubai Mall,Television,Television sales,19700
+2026-05-03,Panasonic Abu Dhabi Corniche,Television,TV weekend deal,14100
+2026-05-04,Panasonic Sharjah City Centre,Television,TV sales,10500
+2026-05-05,Panasonic Dubai Mall,Air Conditioner,AC summer sale,23500
+2026-05-06,Panasonic Abu Dhabi Corniche,Air Conditioner,AC installation,16700
+2026-05-07,Panasonic Sharjah City Centre,Air Conditioner,AC sales,12100
+2026-05-08,Panasonic Dubai Mall,Refrigerator,Refrigerator promo,17500
+2026-05-09,Panasonic Abu Dhabi Corniche,Refrigerator,Fridge sales,13200
+2026-05-10,Panasonic Sharjah City Centre,Refrigerator,Refrigerator clearance,10100
+2026-05-11,Panasonic Dubai Mall,Washing Machine,Washer sales,15000
+2026-05-12,Panasonic Abu Dhabi Corniche,Washing Machine,Washer bundle,11300
+2026-05-13,Panasonic Sharjah City Centre,Washing Machine,Washer sales,8700
+2026-05-14,Panasonic Dubai Mall,Microwave Oven,Microwave promo,7600
+2026-05-15,Panasonic Abu Dhabi Corniche,Microwave Oven,Microwave sales,5900
+2026-05-16,Panasonic Sharjah City Centre,Microwave Oven,Microwave clearance,5100
+2026-06-02,Panasonic Dubai Mall,Television,TV sales,20200
+2026-06-03,Panasonic Abu Dhabi Corniche,Television,TV bundle,14800
+2026-06-04,Panasonic Sharjah City Centre,Television,TV sales,11000
+2026-06-05,Panasonic Dubai Mall,Air Conditioner,AC sales,24800
+2026-06-06,Panasonic Abu Dhabi Corniche,Air Conditioner,AC promo,17500
+2026-06-07,Panasonic Sharjah City Centre,Air Conditioner,AC sales,12800
+2026-06-08,Panasonic Dubai Mall,Refrigerator,Refrigerator sales,18200
+2026-06-09,Panasonic Abu Dhabi Corniche,Refrigerator,Fridge promo,13800
+2026-06-10,Panasonic Sharjah City Centre,Refrigerator,Refrigerator sales,10600
+2026-06-11,Panasonic Dubai Mall,Washing Machine,Washer sales,15600
+2026-06-12,Panasonic Abu Dhabi Corniche,Washing Machine,Washer sales,11800
+2026-06-13,Panasonic Sharjah City Centre,Washing Machine,Washer clearance,9100
+2026-06-14,Panasonic Dubai Mall,Microwave Oven,Microwave sales,7900
+2026-06-15,Panasonic Abu Dhabi Corniche,Microwave Oven,Microwave promo,6200
+2026-06-16,Panasonic Sharjah City Centre,Microwave Oven,Microwave sales,5300
+2026-07-05,Panasonic Dubai Mall,Television,TV sales,21500
+2026-07-06,Panasonic Abu Dhabi Corniche,Television,TV promo,15200
+2026-07-07,Panasonic Sharjah City Centre,Television,TV sales,11400
+2026-07-08,Panasonic Neverland Branch,Television,Intentional error - bad store name,9000
+2026-07-09,Panasonic Dubai Mall,Home Theater,Intentional error - bad category name,8000
